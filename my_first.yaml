@@ -1,0 +1,18 @@
+personal info: # Dictionary example
+    name: abel
+    age: 34
+    Certificates:
+      ugrad: BSc
+      pgrad: 
+       - MSc
+       - Pgdba]
+
+# List demo
+Frruits: # List demo type
+  - Orange
+  - Mango
+  - banana
+About: > # Multiline demo type
+  this is good
+  and we love it
+  the wa it is
